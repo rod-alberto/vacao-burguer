@@ -1,0 +1,68 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: #7E141E;
+}
+
+#fundo{
+
+	
+	position: absolute;
+	margin-top: 20px;
+	margin-left: 10%;
+	width: 80%;
+	height: 97%;
+	background: white;
+}
+
+
+#menu
+{
+	margin: 0 5%;
+	text-align: left;
+}
+.menu_config
+{
+	float: left;
+	background-color: #A41A27;
+	width: 151.5px;
+	height: 25px;
+	text-align: center;
+	color: white;
+	margin: 10px 5px;
+
+}
+
+.menu_config:hover{
+	background-color: #CA2030;
+}
+
+#info
+{
+	display: block;
+	clear: both;
+	width: 88%;
+	height: 80%;
+	margin: 0 59px;
+	background-color: #641018;
+	color: white;
+}
+
+#rodape
+{
+	background-color: #641018;
+	width: 88%;
+	height: 10%;
+	margin: 10px 59px;
+	text-align: center;
+	color: white;
+	clear: both;
+}
+
+#texto{
+	
+	padding-top: 1%;
+}
